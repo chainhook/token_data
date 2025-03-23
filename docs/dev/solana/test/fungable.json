@@ -1,0 +1,6 @@
+{
+  "name": "ListBotTestToken",
+  "symbol": "LBTT",
+  "description": "It's test token for ListTokenBot",
+  "image": "https://chainhook.github.io/token_data/dev/solana/test/lbtt.png"
+}
