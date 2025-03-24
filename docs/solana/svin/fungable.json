@@ -1,0 +1,25 @@
+{
+  "name": "SVINOSTAS",
+  "symbol": "SVIN",
+  "description": "Svinostas is the greatest and most skillful Hearthstone player ever! Enjoy his magnificent strategies and deep analysis!",
+  "image": "https://chainhook.github.io/token_data/solana/svin/svincoin.png",
+  "external_url": "https://www.twitch.tv/silvername",
+  "website": "https://www.twitch.tv/silvername",
+  "telegram": "https://t.me/SilverNameTV",
+  "twitch": "https://www.twitch.tv/silvername",
+  "youtube": "https://www.youtube.com/c/silvername",
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/boost/SilverNameTV"
+    },
+    {
+      "trait_type": "Twitch",
+      "value": "https://www.twitch.tv/silvername"
+    },
+    {
+      "trait_type": "Youtube",
+      "value": "https://www.youtube.com/c/silvername"
+    }
+  ]
+}
