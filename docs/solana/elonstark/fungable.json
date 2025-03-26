@@ -1,0 +1,21 @@
+{
+  "name": "ELONSTARK",
+  "symbol": "ESTARK",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "MemeCoin"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Elon Musk"
+    },
+    {
+      "trait_type": "Inspiration",
+      "value": "Iron Man & Elon Musk"
+    }
+  ],
+  "image": "https://chainhook.github.io/token_data/solana/elonstark/elonstark.png",
+  "description": "ELONSTARK is a futuristic meme coin inspired by visionary ideas and cutting-edge technology. Fly to the stars with ELONSTARK!"
+}
+
